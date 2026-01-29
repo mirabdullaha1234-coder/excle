@@ -1,1 +1,3 @@
-# excle
+# excle excle result sheet 2 data set used :https://github.com/mirabdullaha1234-coder/excle>data set view/:                                                                                                                                                                          :dash board https://github.com/mirabdullaha1234-coder/excle/commit/3a3634a9407894491c9506640cc383d40be47624                                                                                                    90
+<img width="195" height="30" alt="image" src="https://github.com/user-attachments/assets/04d565a5-c70f-4282-b60b-53567a374e93" />
+  
